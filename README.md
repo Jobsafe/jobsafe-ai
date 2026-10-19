@@ -4,7 +4,7 @@ An AI tool that helps young job seekers check if a job offer is a scam, and see 
 
 Built solo for the **NYLP AI Hackathon 2026**.
 
-**Live demo:** https://claude.ai/artifact/HkrFwXAGfMoKtjfXGtKssE
+**Live demo:** file:///C:/Users/faiza/OneDrive/Desktop/jobsafe-ai.html
 
 ## Problem
 
@@ -67,10 +67,6 @@ How it works:
 1. Download `jobsafe-ai.html` from this repository.
 2. Open it in a Claude artifact (or publish it as an artifact), because the AI feature depends on the Claude artifact runtime.
 3. No API keys or environment variables are needed.
-
-## Screenshots
-
-_Add 3 screenshots here: (1) scam check result with highlighted red flags, (2) CV match result, (3) final recommendation._
 
 ## Limitations
 
